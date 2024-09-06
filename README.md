@@ -36,7 +36,10 @@ ABC 신발가게 Clone 코딩
 
 ## Running the tests / 테스트의 실행
 
-//
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=V0w_gtu3Tc4
+" target="_blank"><img src="http://img.youtube.com/vi/V0w_gtu3Tc4/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="720" height="480" border="10" /></a>
+
 
 ### ABC Market Clone 코딩
 
