@@ -1,8 +1,18 @@
-# ABCD Market 
-## 노민철 이원영 이종남 한재영
+
+# ABCD Market 
 
 **[뱃지나 프로젝트에 관한 이미지들이 이 위치에 들어가면 좋습니다]**  
 One Paragraph of project description goes here / 프로젝트의 전반적인 내용에 대한 요약을 여기에 적습니다
+
+
+## ⚙ Organization
+
+|    역할   |           Name           | 
+|  :-----: | :----------------------: | 
+|    팀장   | <center> 노민철  </center> |
+|    팀원   | <center> **이원영** </center> | 
+|    팀원   | <center> 이종남  </center> |
+|    팀원   | <center> 한재영  </center> |
 
 ### Packages / 사용한 패키지
 
@@ -69,11 +79,3 @@ One Paragraph of project description goes here / 프로젝트의 전반적인 �
    - /shoes_market_app/lib/view/login.dart
    - /shoes_market_app/lib/view/order.dart
 
-
-
-
-## Acknowledgments / 감사의 말
-
-* Hat tip to anyone whose code was used / 코드를 사용한 모든 사용자들에게 팁
-* Inspiration / 영감
-* etc / 기타
