@@ -1,8 +1,15 @@
 
 # ABCD Market 
 
-**[뱃지나 프로젝트에 관한 이미지들이 이 위치에 들어가면 좋습니다]**  
-One Paragraph of project description goes here / 프로젝트의 전반적인 내용에 대한 요약을 여기에 적습니다
+![abcd](https://github.com/user-attachments/assets/c3dab463-9b06-43ea-991e-f886e4654b26)
+
+
+ABC 신발가게 Clone 코딩
+
+
+## ERR
+
+![shoes_market_err](https://github.com/user-attachments/assets/e13b4576-8927-48c7-95f0-3fd73fd0bb94)
 
 
 ## ⚙ Organization
@@ -29,7 +36,7 @@ One Paragraph of project description goes here / 프로젝트의 전반적인 �
 
 ## Running the tests / 테스트의 실행
 
-어떻게 테스트가 이 시스템에서 돌아가는지에 대한 설명을 합니다
+//
 
 ### ABC Market Clone 코딩
 
