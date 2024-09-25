@@ -49,18 +49,8 @@ alt="IMAGE ALT TEXT HERE" width="720" height="480" border="10" /></a>
 신발들의 판매 현황을 보는 관리자 페이지 구현
 ```
 
-## Built With 
-* [노민철]((https://github.com/nnmmnn15))
-  - 키오스크 구현, 현황 웹 페이지 구현, 로직 수정,
-    
-  View
- 
-  View Model
-  - /purchase_handler/queryPurchasedetail(),
-  - /purchase_handler/queryPurchasedetail(),
-
-
-* [이원영](https://github.com/Leewonyooung)
+## Contribution
+  요약
   - 탭바를 활용한 앱의 전체적인 ui, 신발 전체 리스트, 검색 페이지 및 내 정보 페이지
  
   View
@@ -71,21 +61,3 @@ alt="IMAGE ALT TEXT HERE" width="720" height="480" border="10" /></a>
   - /shoes_market_app/lib/vm/product_handler.dart
  
     
-* [이종남](https://github.com/LeeJongNam7)
-  - 현황 웹페이지 구현, 앱 주문 상세 페이지 구현
-
-  View
-  - /
-  View Model
-  - /
-  - 
-* [한재영](https://github.com/hanjaeng)
-   - 앱 로그인, 구매내역 페이지, customer_handler 구현
-     
-   View Model
-   - /shoes_market_app/lib/vm/customer_handler.dart
- 
-   View
-   - /shoes_market_app/lib/view/login.dart
-   - /shoes_market_app/lib/view/order.dart
-
